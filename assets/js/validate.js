@@ -3,7 +3,7 @@ function validateLogin() {
   var password = document.getElementById("password").value;
   var messageContainer = document.getElementById("login-message");
 
-  if (username === "Nixiehackoutflag1dirtym13nd" && password === "Youcans33m3") {
+  if (username === "1C7.KUMm4771KK4.jU1c3" && password === "Youcans33m3") {
     messageContainer.innerHTML = "<p>Login successful!</p>";
     window.location.href = "/pages/challenge.html";
     return false; 
